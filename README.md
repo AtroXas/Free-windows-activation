@@ -1,2 +1,31 @@
 # Free-windows-activation
 windows activation 
+
+
+STEP 1: 
+Open CMD AS ADMINISTRATOR
+
+STEP 2:
+type in CMD slmgr.vbs /upk
+
+STEP 3:
+type into CMD slmgr /ipk <Windows 10 activation key>
+
+STEP 4: 
+type into CMD slmgr /skms zh.us.to
+
+STEP 5:
+type into CMD slmgr /ato should read ACTIVATING WINDOWS(R) <WINDOWS VERSION> PRODUCT SUCCESSFULLY ACTIVATED
+
+
+WINDOWS PRODUCT KEYS> 
+Home: TX9XD-98N7V-6WMQ6-BX7FG-H8Q99
+Main N: 3KHY7-WNT83-DGQKR-F7HPR-844BM
+Homepage in one language: 7HNRX-D7KGG-3K4RQ-4WPJ4-YTDFH
+Country Specific: PVMJN-6DFY6–9CCP6–7BKTT-D3WVR
+Professional: W269N-WFGWX-YVC9B-4J6C9-T83GX
+Professional N: MH37W-N47XK-V7XM9-C7227-GCQG9
+Education: NW6C2-QMPVW-D7KKK-3GKT6-VCFB2
+Education N: 2WH4N-8QGBV-H22JP-CT43Q-MDWWJ
+Company: NPPR9-FWDCX-D2C8J-H872K-2YT43
+Company N: DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4
